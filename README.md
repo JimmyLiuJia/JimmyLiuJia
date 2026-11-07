@@ -1,5 +1,3 @@
 # Hi, I'm Jimmy
 
-I build backend services with Java and Spring. I like clear code, useful tests, and figuring out the edge cases that only show up in real life.
-
-I contribute to open source through bug fixes and compatibility improvements.
+I'm a backend developer who loves writing code and contributing to open source. I mostly work with Java and Spring.
